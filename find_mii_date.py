@@ -19,7 +19,7 @@ SYSTEM_TYPE_LABEL = "Wii U/3DS (Epoch 2010, x2s)"
 # --- Target Date Range (Inclusive) ---
 TARGET_START_DATE = datetime.datetime(2011, 1, 1, 0, 0, 0)
 # End of the specified day
-TARGET_END_DATE = datetime.datetime(2012, 12, 25, 23, 59, 59)
+TARGET_END_DATE = datetime.datetime(2013, 9, 30, 23, 59, 59)
 
 # --- Helper Functions ---
 
